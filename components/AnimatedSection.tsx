@@ -48,4 +48,6 @@ const AnimatedSection: React.FC<AnimatedSectionProps> = ({ children, className =
 
 //deneme
 
+//1453 taskı
+
 export default AnimatedSection;
