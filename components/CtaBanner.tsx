@@ -42,4 +42,6 @@ const CtaBanner: React.FC<CtaBannerProps> = ({ title, description, primaryLink, 
   );
 };
 
+//deneme
+
 export default CtaBanner;
