@@ -46,4 +46,6 @@ const AnimatedSection: React.FC<AnimatedSectionProps> = ({ children, className =
   );
 };
 
+//deneme
+
 export default AnimatedSection;
