@@ -5,7 +5,7 @@ interface AnimatedSectionProps {
   className?: string;
 }
 
-const AnimatedSection: React.FC<AnimatedSectionProps> = ({ children, className = 'mahmut' }) => {
+const AnimatedSection: React.FC<AnimatedSectionProps> = ({ children, className = '' }) => {
   const ref = useRef<HTMLDivElement>(null);
   const [isVisible, setIsVisible] = useState(false);
 
